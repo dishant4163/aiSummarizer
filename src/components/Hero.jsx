@@ -9,7 +9,7 @@ const Hero = () => {
 
                 <button
                     type="button"
-                    onClick={() => window.open('https://github.com/dishant4163?tab=repositories')}
+                    onClick={() => window.open('https://github.com/dishant4163?tab=repositories')} // linking github personal profile
                     className="black_btn"
                 >
                     Github
